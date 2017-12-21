@@ -15,6 +15,8 @@ PLAN
 Work Strategy for each piece of plan
 	2x2 alone
 	2 together 
+	pick 1 set it forget it - hopefully.
+
 Pick a site name
 	HQ 
 	Select
@@ -24,7 +26,39 @@ Pick a site name
 Draw a logo/brand/symbol to represent the site
 	Somehow connect it to the vision and the letters of the name
 
-Wireframe the visual layout
+Wireframe the visual layout---------------------------------------TIME
 	6 prototypes black and white?
 		2x2 alone
 		2	together
+
+Choose stack...
+	It'll be lamp. We have to pick the languages we want the back end to be in
+
+Choose the design for uploading content...Like how do we put an article with images up? --------------------------------------------------------------TIME
+	HTML editing?
+	UI?
+	go to a terminal and push it? what about images?
+
+Get all the content we will need
+	organize it into directories and KNOW what is connected to what
+
+
+Write the HTML 
+	content 
+	tags
+
+Write the CSS---------------------------------------------------TIME
+
+Write the JS ---------------------------------------------------TIME
+	get the functionality working. 
+	namely for navigation on frontend
+
+Write the backend in whatever we decided on earlier.
+
+	Revise this plan
+
+
+Finish by Jan 5.
+
+1	2	3	4	5	6	7	8	9	10
+18k			24k						36k
